@@ -30,8 +30,6 @@
 ## Usage
 
 1. Open the terminal in the specific python script folder first
-2. Terminal command
-   Terminal python youtubedlp.py
-
+2. Terminal command: python youtubedlp.py
 3. Then copy/paste the youtube url after the text field "enter the youtube url"
 4. You got yourself the video downloaded.
