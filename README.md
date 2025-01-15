@@ -35,4 +35,12 @@
 4. You got yourself the video downloaded.
 
 
-Disclaimer: This script is provided for educational purposes only. The use of this script may violate the terms of service of certain platforms, including YouTube. The author assumes no liability for any misuse. Use at your own risk and ensure compliance with local laws and platform policies.
+# Disclaimer
+
+This script is provided for educational and personal use only. Please note the following:
+
+1. **YouTube's Terms of Service**: Downloading videos from YouTube may violate its Terms of Service unless you have explicit permission from the content owner or are downloading videos through YouTube Premium.
+2. **Compliance with Laws**: The user is solely responsible for ensuring that their use of this script complies with local laws and regulations.
+3. **Liability**: The author of this script assumes no liability for any misuse of the code or its consequences.
+
+By using this script, you agree that the usage is at your own risk.
