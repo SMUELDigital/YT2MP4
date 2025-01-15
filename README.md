@@ -26,10 +26,13 @@
 ---
 
 
-# Youtube to MP4 convert python script
+# Youtube to MP4 convert python script (educational)
 ## Usage
 
 1. Open the terminal in the specific python script folder first
 2. Terminal command: python youtubedlp.py
 3. Then copy/paste the youtube url after the text field "enter the youtube url"
 4. You got yourself the video downloaded.
+
+
+Disclaimer: This script is provided for educational purposes only. The use of this script may violate the terms of service of certain platforms, including YouTube. The author assumes no liability for any misuse. Use at your own risk and ensure compliance with local laws and platform policies.
