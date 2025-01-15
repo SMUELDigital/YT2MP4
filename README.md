@@ -29,11 +29,16 @@
 # Youtube to MP4 convert python script (educational)
 ## Usage
 
-1. Open the terminal in the specific python script folder first
-2. Terminal command: python youtubedlp.py
-3. Then copy/paste the youtube url after the text field "enter the youtube url"
-4. You got yourself the video downloaded.
+### Python File
+1.) Open the terminal in the specific python script folder first 
+2.) Terminal command: python youtubedlp.py 
+3.) Then copy/paste the youtube url after the text field "enter the youtube url" 
+4.) You got yourself the video downloaded.
 
+### Comandline
+1.) Copy link 
+2.) Terminal in selected folder: yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 'video link' 
+3.) After download, the video and audio merged successfully
 
 # Disclaimer
 
